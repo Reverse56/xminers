@@ -1,5 +1,6 @@
 token=NjA1NzM5NDMyNjQ0OTY4NDUx.XUA46A.VlhgKtaYzpO0VqVkk6NAXrnOzQc
 owner=450444685757120522
 prefix=1
+game= Xminers
 stayinchannel=true
 songinstatus=true
