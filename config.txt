@@ -1,0 +1,5 @@
+token=تحط التوكن علطول
+owner=441683368418082836 
+prefix=$
+stayinchannel=true
+songinstatus=true
